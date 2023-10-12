@@ -1,7 +1,7 @@
 #include "DrawPad.hpp"
 #include <math.h>
 
-void DrawMain()
+void DrawMain()//
 {
     Clear(kColorBlack);
     
